@@ -1,4 +1,4 @@
-# Projeto Mack
+# Projeto AWS - Murilo
 
 Este projeto demonstra a utilização de vários serviços AWS, incluindo S3, Lambda, EC2 e SQS.
 
